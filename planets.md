@@ -29,4 +29,4 @@ Construir a API em:
 - Qualidade de código (clean code)
 - Testes (Quanto mais, melhor!)
 
-Subir o projeto no github.
+#### Ao finalizar, subir o projeto no github.
