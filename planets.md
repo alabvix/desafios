@@ -1,4 +1,4 @@
-!(ufp.png)
+![](./ufp.png)
 ## API de planetas
 
 Criar uma RESt API que vai fornecer as seguintes operações:
