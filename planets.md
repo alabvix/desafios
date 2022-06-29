@@ -19,6 +19,10 @@ x: 202
 y: 104
 z: 1004
 
-Para construir a API pode usar Java, Kotlin ou Node
+### Orientações:
+Construir a API em:
+- Java
+- Kotlin
+- Node.js
 
 Subir o projeto no github.
