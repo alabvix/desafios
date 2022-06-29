@@ -20,7 +20,7 @@ Criar uma RESt API que vai fornecer as seguintes operações:
 - z: 1004
 
 ### Orientações:
-Construir a API em:
+Escolha umas das tecnologias abaixo para construir sua API:
 - Java
 - Kotlin
 - Node.js
