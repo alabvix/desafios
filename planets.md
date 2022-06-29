@@ -14,10 +14,10 @@ Criar uma RESt API que vai fornecer as seguintes operações:
 - z : coordenada z no espaço 3D | 0 > y <= 5000
 
 ##### Exemplo:
-Nome: Earth
-x: 202
-y: 104
-z: 1004
+- Nome: Earth
+- x: 202
+- y: 104
+- z: 1004
 
 ### Orientações:
 Construir a API em:
