@@ -1,4 +1,4 @@
-![](src:ufp.png)
+!(ufp.png)
 ## API de planetas
 
 Criar uma RESt API que vai fornecer as seguintes operações:
@@ -20,4 +20,5 @@ y: 104
 z: 1004
 
 Para construir a API pode usar Java, Kotlin ou Node
+
 Subir o projeto no github.
