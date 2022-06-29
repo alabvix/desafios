@@ -25,4 +25,8 @@ Construir a API em:
 - Kotlin
 - Node.js
 
+### Pontos por:
+- Qualidade de código (clean code)
+- Testes (Quanto mais, melhor!)
+
 Subir o projeto no github.
